@@ -1,0 +1,143 @@
+D:\BT CSharp\AIDemo\AIDemo\bin\Debug\N_Puzzle.exe
+D:\BT CSharp\AIDemo\AIDemo\bin\Debug\N_Puzzle.pdb
+D:\BT CSharp\AIDemo\AIDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\BT CSharp\AIDemo\AIDemo\obj\Debug\N_Puzzle.Board.resources
+D:\BT CSharp\AIDemo\AIDemo\obj\Debug\N_Puzzle.Form1.resources
+D:\BT CSharp\AIDemo\AIDemo\obj\Debug\N_Puzzle.Properties.Resources.resources
+D:\BT CSharp\AIDemo\AIDemo\obj\Debug\N_Puzzle.csproj.GenerateResource.Cache
+D:\BT CSharp\AIDemo\AIDemo\obj\Debug\N_Puzzle.exe
+D:\BT CSharp\AIDemo\AIDemo\obj\Debug\N_Puzzle.pdb
+D:\BT CSharp\AIDemo\N_Puzzle\obj\Debug\N_Puzzle.exe
+D:\BT CSharp\AIDemo\N_Puzzle\obj\Debug\N_Puzzle.pdb
+D:\BT CSharp\AIDemo\N_Puzzle\bin\Debug\N_Puzzle.exe
+D:\BT CSharp\AIDemo\N_Puzzle\bin\Debug\N_Puzzle.pdb
+D:\BT CSharp\AIDemo\N_Puzzle\obj\Debug\ResolveAssemblyReference.cache
+D:\BT CSharp\AIDemo\N_Puzzle\obj\Debug\N_Puzzle.Board.resources
+D:\BT CSharp\AIDemo\N_Puzzle\obj\Debug\N_Puzzle.Form1.resources
+D:\BT CSharp\AIDemo\N_Puzzle\obj\Debug\N_Puzzle.Properties.Resources.resources
+D:\BT CSharp\AIDemo\N_Puzzle\obj\Debug\N_Puzzle.csproj.GenerateResource.Cache
+D:\BT CSharp\N_Puzzle\N_Puzzle\obj\Debug\N_Puzzle.exe
+D:\BT CSharp\N_Puzzle\N_Puzzle\obj\Debug\N_Puzzle.pdb
+D:\BT CSharp\N_Puzzle\N_Puzzle\bin\Debug\N_Puzzle.exe
+D:\BT CSharp\N_Puzzle\N_Puzzle\bin\Debug\N_Puzzle.pdb
+D:\BT CSharp\N_Puzzle\N_Puzzle\obj\Debug\ResolveAssemblyReference.cache
+D:\BT CSharp\N_Puzzle\N_Puzzle\obj\Debug\N_Puzzle.Board.resources
+D:\BT CSharp\N_Puzzle\N_Puzzle\obj\Debug\N_Puzzle.Form1.resources
+D:\BT CSharp\N_Puzzle\N_Puzzle\obj\Debug\N_Puzzle.Properties.Resources.resources
+D:\BT CSharp\N_Puzzle\N_Puzzle\obj\Debug\N_Puzzle.csproj.GenerateResource.Cache
+C:\Users\HoaiNam10TH\Desktop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\N_Puzzle.exe
+C:\Users\HoaiNam10TH\Desktop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\N_Puzzle.pdb
+C:\Users\HoaiNam10TH\Desktop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\bin\Debug\N_Puzzle.exe
+C:\Users\HoaiNam10TH\Desktop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\bin\Debug\N_Puzzle.pdb
+C:\Users\HoaiNam10TH\Desktop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HoaiNam10TH\Desktop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\N_Puzzle.Board.resources
+C:\Users\HoaiNam10TH\Desktop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\N_Puzzle.Form1.resources
+C:\Users\HoaiNam10TH\Desktop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\N_Puzzle.Properties.Resources.resources
+C:\Users\HoaiNam10TH\Desktop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\N_Puzzle.csproj.GenerateResource.Cache
+E:\DeskTop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\N_Puzzle.exe
+E:\DeskTop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\N_Puzzle.pdb
+E:\DeskTop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\bin\Debug\N_Puzzle.exe
+E:\DeskTop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\bin\Debug\N_Puzzle.pdb
+E:\DeskTop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\ResolveAssemblyReference.cache
+E:\DeskTop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\N_Puzzle.Board.resources
+E:\DeskTop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\N_Puzzle.Form1.resources
+E:\DeskTop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\N_Puzzle.Properties.Resources.resources
+E:\DeskTop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\DeskTop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\HoaiNam10TH\Desktop\DeskTop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\N_Puzzle.exe
+C:\Users\HoaiNam10TH\Desktop\DeskTop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\N_Puzzle.pdb
+C:\Users\HoaiNam10TH\Desktop\DeskTop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\bin\Debug\N_Puzzle.exe
+C:\Users\HoaiNam10TH\Desktop\DeskTop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\bin\Debug\N_Puzzle.pdb
+C:\Users\HoaiNam10TH\Desktop\DeskTop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HoaiNam10TH\Desktop\DeskTop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\N_Puzzle.Board.resources
+C:\Users\HoaiNam10TH\Desktop\DeskTop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\N_Puzzle.Form1.resources
+C:\Users\HoaiNam10TH\Desktop\DeskTop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\N_Puzzle.Properties.Resources.resources
+C:\Users\HoaiNam10TH\Desktop\DeskTop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\HoaiNam10TH\Desktop\DeskTop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\HoaiNam10TH\Desktop\DeskTop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Debug\N_Puzzle.About.resources
+E:\Document\Tri tue nhan tao\Bao cao va SourceCode\Source_Code\N_Puzzle\obj\Debug\N_Puzzle.pdb
+E:\Document\Tri tue nhan tao\Bao cao va SourceCode\Source_Code\N_Puzzle\bin\Debug\N_Puzzle.exe
+E:\Document\Tri tue nhan tao\Bao cao va SourceCode\Source_Code\N_Puzzle\bin\Debug\N_Puzzle.pdb
+E:\Document\Tri tue nhan tao\Bao cao va SourceCode\Source_Code\N_Puzzle\obj\Debug\ResolveAssemblyReference.cache
+E:\Document\Tri tue nhan tao\Bao cao va SourceCode\Source_Code\N_Puzzle\obj\Debug\N_Puzzle.About.resources
+E:\Document\Tri tue nhan tao\Bao cao va SourceCode\Source_Code\N_Puzzle\obj\Debug\N_Puzzle.Board.resources
+E:\Document\Tri tue nhan tao\Bao cao va SourceCode\Source_Code\N_Puzzle\obj\Debug\N_Puzzle.Form1.resources
+E:\Document\Tri tue nhan tao\Bao cao va SourceCode\Source_Code\N_Puzzle\obj\Debug\N_Puzzle.Properties.Resources.resources
+E:\Document\Tri tue nhan tao\Bao cao va SourceCode\Source_Code\N_Puzzle\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Document\Tri tue nhan tao\Bao cao va SourceCode\Source_Code\N_Puzzle\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\Document\Tri tue nhan tao\Bao cao va SourceCode\Source_Code\N_Puzzle\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Document\Tri tue nhan tao\Bao cao va SourceCode\Source_Code\N_Puzzle\obj\Debug\N_Puzzle.exe
+E:\Source_Code\N_Puzzle\obj\Debug\N_Puzzle.exe
+E:\Source_Code\N_Puzzle\obj\Debug\N_Puzzle.pdb
+E:\Source_Code\N_Puzzle\bin\Debug\N_Puzzle.exe
+E:\Source_Code\N_Puzzle\bin\Debug\N_Puzzle.pdb
+E:\Source_Code\N_Puzzle\obj\Debug\ResolveAssemblyReference.cache
+E:\Source_Code\N_Puzzle\obj\Debug\N_Puzzle.About.resources
+E:\Source_Code\N_Puzzle\obj\Debug\N_Puzzle.Board.resources
+E:\Source_Code\N_Puzzle\obj\Debug\N_Puzzle.Form1.resources
+E:\Source_Code\N_Puzzle\obj\Debug\N_Puzzle.Properties.Resources.resources
+E:\Source_Code\N_Puzzle\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Source_Code\N_Puzzle\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\Source_Code\N_Puzzle\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.exe
+E:\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.pdb
+E:\8-puzzle\N_Puzzle\bin\Debug\N_Puzzle.exe
+E:\8-puzzle\N_Puzzle\bin\Debug\N_Puzzle.pdb
+E:\8-puzzle\N_Puzzle\obj\Debug\ResolveAssemblyReference.cache
+E:\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.About.resources
+E:\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.Board.resources
+E:\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.Form1.resources
+E:\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.Properties.Resources.resources
+E:\8-puzzle\N_Puzzle\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\8-puzzle\N_Puzzle\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\8-puzzle\N_Puzzle\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\8-puzzle_\8-puzzle\N_Puzzle\bin\Debug\N_Puzzle.exe
+F:\8-puzzle_\8-puzzle\N_Puzzle\bin\Debug\N_Puzzle.pdb
+F:\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.csprojAssemblyReference.cache
+F:\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.Board.resources
+F:\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.Form1.resources
+F:\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.Properties.Resources.resources
+F:\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.csproj.GenerateResource.cache
+F:\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.csproj.CoreCompileInputs.cache
+F:\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.exe
+F:\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.pdb
+F:\O D\RECOVERY(D)\Tri Tue Nhan Tao\Thuc_Tap_Co_So\8-puzzle_\8-puzzle\N_Puzzle\bin\Debug\N_Puzzle.exe
+F:\O D\RECOVERY(D)\Tri Tue Nhan Tao\Thuc_Tap_Co_So\8-puzzle_\8-puzzle\N_Puzzle\bin\Debug\N_Puzzle.pdb
+F:\O D\RECOVERY(D)\Tri Tue Nhan Tao\Thuc_Tap_Co_So\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.csprojAssemblyReference.cache
+F:\O D\RECOVERY(D)\Tri Tue Nhan Tao\Thuc_Tap_Co_So\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.Board.resources
+F:\O D\RECOVERY(D)\Tri Tue Nhan Tao\Thuc_Tap_Co_So\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.Form1.resources
+F:\O D\RECOVERY(D)\Tri Tue Nhan Tao\Thuc_Tap_Co_So\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.Properties.Resources.resources
+F:\O D\RECOVERY(D)\Tri Tue Nhan Tao\Thuc_Tap_Co_So\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.csproj.GenerateResource.cache
+F:\O D\RECOVERY(D)\Tri Tue Nhan Tao\Thuc_Tap_Co_So\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.csproj.CoreCompileInputs.cache
+F:\O D\RECOVERY(D)\Tri Tue Nhan Tao\Thuc_Tap_Co_So\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.exe
+F:\O D\RECOVERY(D)\Tri Tue Nhan Tao\Thuc_Tap_Co_So\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.pdb
+D:\TTCS\8-puzzle_\8-puzzle\N_Puzzle\bin\Debug\N_Puzzle.exe
+D:\TTCS\8-puzzle_\8-puzzle\N_Puzzle\bin\Debug\N_Puzzle.pdb
+D:\TTCS\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.csproj.AssemblyReference.cache
+D:\TTCS\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.Board.resources
+D:\TTCS\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.Form1.resources
+D:\TTCS\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.Properties.Resources.resources
+D:\TTCS\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.csproj.GenerateResource.cache
+D:\TTCS\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.csproj.CoreCompileInputs.cache
+D:\TTCS\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.exe
+D:\TTCS\8-puzzle_\8-puzzle\N_Puzzle\obj\Debug\N_Puzzle.pdb
+C:\Users\admin\Desktop\TTCS\ThucTapCoSo\N_Puzzle\bin\Debug\N_Puzzle.exe
+C:\Users\admin\Desktop\TTCS\ThucTapCoSo\N_Puzzle\bin\Debug\N_Puzzle.pdb
+C:\Users\admin\Desktop\TTCS\ThucTapCoSo\N_Puzzle\obj\Debug\N_Puzzle.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\TTCS\ThucTapCoSo\N_Puzzle\obj\Debug\N_Puzzle.Board.resources
+C:\Users\admin\Desktop\TTCS\ThucTapCoSo\N_Puzzle\obj\Debug\N_Puzzle.Form1.resources
+C:\Users\admin\Desktop\TTCS\ThucTapCoSo\N_Puzzle\obj\Debug\N_Puzzle.Properties.Resources.resources
+C:\Users\admin\Desktop\TTCS\ThucTapCoSo\N_Puzzle\obj\Debug\N_Puzzle.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\TTCS\ThucTapCoSo\N_Puzzle\obj\Debug\N_Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TTCS\ThucTapCoSo\N_Puzzle\obj\Debug\N_Puzzle.exe
+C:\Users\admin\Desktop\TTCS\ThucTapCoSo\N_Puzzle\obj\Debug\N_Puzzle.pdb
+D:\Học Lập Trình\Code C#\Báo Cáo Trí tuệ nhân tạo\N_Puzzle\bin\Debug\N_Puzzle.exe
+D:\Học Lập Trình\Code C#\Báo Cáo Trí tuệ nhân tạo\N_Puzzle\bin\Debug\N_Puzzle.pdb
+D:\Học Lập Trình\Code C#\Báo Cáo Trí tuệ nhân tạo\N_Puzzle\obj\Debug\N_Puzzle.csproj.AssemblyReference.cache
+D:\Học Lập Trình\Code C#\Báo Cáo Trí tuệ nhân tạo\N_Puzzle\obj\Debug\N_Puzzle.Board.resources
+D:\Học Lập Trình\Code C#\Báo Cáo Trí tuệ nhân tạo\N_Puzzle\obj\Debug\N_Puzzle.Form1.resources
+D:\Học Lập Trình\Code C#\Báo Cáo Trí tuệ nhân tạo\N_Puzzle\obj\Debug\N_Puzzle.Properties.Resources.resources
+D:\Học Lập Trình\Code C#\Báo Cáo Trí tuệ nhân tạo\N_Puzzle\obj\Debug\N_Puzzle.csproj.GenerateResource.cache
+D:\Học Lập Trình\Code C#\Báo Cáo Trí tuệ nhân tạo\N_Puzzle\obj\Debug\N_Puzzle.csproj.CoreCompileInputs.cache
+D:\Học Lập Trình\Code C#\Báo Cáo Trí tuệ nhân tạo\N_Puzzle\obj\Debug\N_Puzzle.exe
+D:\Học Lập Trình\Code C#\Báo Cáo Trí tuệ nhân tạo\N_Puzzle\obj\Debug\N_Puzzle.pdb

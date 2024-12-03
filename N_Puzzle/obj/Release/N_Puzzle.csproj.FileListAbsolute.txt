@@ -1,0 +1,27 @@
+D:\BT CSharp\AIDemo\AIDemo\bin\Release\N_Puzzle.exe
+D:\BT CSharp\AIDemo\AIDemo\bin\Release\N_Puzzle.pdb
+D:\BT CSharp\AIDemo\AIDemo\obj\Release\ResolveAssemblyReference.cache
+D:\BT CSharp\AIDemo\AIDemo\obj\Release\N_Puzzle.Board.resources
+D:\BT CSharp\AIDemo\AIDemo\obj\Release\N_Puzzle.Form1.resources
+D:\BT CSharp\AIDemo\AIDemo\obj\Release\N_Puzzle.Properties.Resources.resources
+D:\BT CSharp\AIDemo\AIDemo\obj\Release\N_Puzzle.csproj.GenerateResource.Cache
+D:\BT CSharp\AIDemo\AIDemo\obj\Release\N_Puzzle.exe
+D:\BT CSharp\AIDemo\AIDemo\obj\Release\N_Puzzle.pdb
+D:\BT CSharp\AIDemo\N_Puzzle\obj\Release\ResolveAssemblyReference.cache
+D:\BT CSharp\AIDemo\N_Puzzle\obj\Release\N_Puzzle.Board.resources
+D:\BT CSharp\AIDemo\N_Puzzle\obj\Release\N_Puzzle.Form1.resources
+D:\BT CSharp\AIDemo\N_Puzzle\obj\Release\N_Puzzle.Properties.Resources.resources
+D:\BT CSharp\AIDemo\N_Puzzle\obj\Release\N_Puzzle.csproj.GenerateResource.Cache
+D:\BT CSharp\AIDemo\N_Puzzle\obj\Release\N_Puzzle.exe
+D:\BT CSharp\AIDemo\N_Puzzle\bin\Release\N_Puzzle.exe
+D:\BT CSharp\AIDemo\N_Puzzle\bin\Release\N_Puzzle.pdb
+D:\BT CSharp\AIDemo\N_Puzzle\obj\Release\N_Puzzle.pdb
+C:\Users\HoaiNam10TH\Desktop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\bin\Release\N_Puzzle.exe
+C:\Users\HoaiNam10TH\Desktop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\bin\Release\N_Puzzle.pdb
+C:\Users\HoaiNam10TH\Desktop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Release\ResolveAssemblyReference.cache
+C:\Users\HoaiNam10TH\Desktop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Release\N_Puzzle.Board.resources
+C:\Users\HoaiNam10TH\Desktop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Release\N_Puzzle.Form1.resources
+C:\Users\HoaiNam10TH\Desktop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Release\N_Puzzle.Properties.Resources.resources
+C:\Users\HoaiNam10TH\Desktop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Release\N_Puzzle.csproj.GenerateResource.Cache
+C:\Users\HoaiNam10TH\Desktop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Release\N_Puzzle.exe
+C:\Users\HoaiNam10TH\Desktop\Y2 N-Puzzle Solver 1.0.1\N_Puzzle\obj\Release\N_Puzzle.pdb
